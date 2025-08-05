@@ -1,4 +1,4 @@
-# 🔥 ¡Controlador temperatura nuecleo Raspberry Pi 3B+! 🔥
+# 🔥 ¡Controlador temperatura Raspberry Pi 3B+! 🔥
 
 ---
 
